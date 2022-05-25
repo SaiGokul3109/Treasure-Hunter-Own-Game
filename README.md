@@ -1,1 +1,1 @@
-# Treasure-Hunter-Own-Game
+# Treasure-Hunt
